@@ -29,9 +29,8 @@
  <h2 align="left">👋 Hello, I'm Farhan Ali | Aspiring Full-Stack Developer <br></h2>
 <p>I am a motivated and detail-oriented developer on a structured journey to become a proficient full-stack engineer. My learning path is focused on building a strong, versatile skill set across the entire development stack.<br>
 
-<br>🛠️ Technical Proficiencies & Learning Path<br>
-<br>✅ Solid Foundation:<br>
-<br>Front-End: HTML5, CSS3<br>
+<br><h3>✅ Solid Foundation:<br></h3>
+<br>Front-End: HTML5, CSS3<
 <br>Back-End: Python<br>
 <br>Databases: MySQL<br>
 <br>Version Control: Git & GitHub<br>
