@@ -26,46 +26,31 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Farhan Ali | Aspiring Full-Stack Developer <br>
-I am a motivated and detail-oriented developer on a structured journey to become a proficient full-stack engineer. My learning path is focused on building a strong, versatile skill set across the entire development stack.<br>
+ <h2 align="left">👋 Hello, I'm Farhan Ali | Aspiring Full-Stack Developer <br></h2>
+<p>I am a motivated and detail-oriented developer on a structured journey to become a proficient full-stack engineer. My learning path is focused on building a strong, versatile skill set across the entire development stack.<br>
 
 <br>🛠️ Technical Proficiencies & Learning Path<br>
 <br>✅ Solid Foundation:<br>
-
 <br>Front-End: HTML5, CSS3<br>
-
 <br>Back-End: Python<br>
-
 <br>Databases: MySQL<br>
-
 <br>Version Control: Git & GitHub<br>
 
 <br>Currently Mastering:<br>
-
 <br>Core Language: JavaScript (ES6+)<br>
-
 <br>Front-End Library: React (State, Hooks, Components)<br>
 
 <br>🎯 On The Roadmap (Coming Next):<br>
 <br>My learning plan is strategically designed to expand my capabilities into high-demand technologies:<br>
-
 <br>Front-End Frameworks: Vue.js, Angular<br>
-
 <br>CSS Frameworks & Libraries: Tailwind CSS, Bootstrap, jQuery<br>
 
 <br>Back-End Runtimes: Node.js<br>
-
 <br>Additional Languages: PHP, Java<br>
-
 <br>Databases: MongoDB, PostgreSQL<br>
-
 <br>API Architectures: RESTful API development, GraphQL<br>
 
-<br>🌱 My Current Focus<br>
-<br>I am passionately building projects to solidify my understanding of JavaScript and React. I believe in learning by doing, and I'm constantly applying new concepts to real-world applications.</p><br>
-
 ###
-
 
 
 ###
