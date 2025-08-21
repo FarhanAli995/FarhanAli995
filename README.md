@@ -30,10 +30,10 @@
 <p>I am a motivated and detail-oriented developer on a structured journey to become a proficient full-stack engineer. My learning path is focused on building a strong, versatile skill set across the entire development stack.<br>
 
 <br><h3>✅ Solid Foundation:<br></h3>
-<br>Front-End: HTML5, CSS3<
-<br>Back-End: Python<br>
-<br>Databases: MySQL<br>
-<br>Version Control: Git & GitHub<br>
+<br>--Front-End: HTML5, CSS3--
+--Back-End: Python<br>--
+--Databases: MySQL--
+--Version Control: Git & GitHub--<br>
 
 <br>Currently Mastering:<br>
 <br>Core Language: JavaScript (ES6+)<br>
