@@ -35,19 +35,19 @@
 --Databases: MySQL--
 --Version Control: Git & GitHub--<br>
 
-<br><h3>--Currently Mastering:--</h3><br>
+<br><h3>✅Currently Mastering:</h3><br>
+<br><h3>Currently Mastering:</h3><br>
 <br>--Core Language: JavaScript-- (ES6+)
 --Front-End Library: React (State, Hooks, Components)--<br>
 
-<br>🎯 On The Roadmap (Coming Next):<br>
+<br><h3>✅ On The Roadmap (Coming Next):</h3><br>
 <br>My learning plan is strategically designed to expand my capabilities into high-demand technologies:<br>
-<br>Front-End Frameworks: Vue.js, Angular<br>
-<br>CSS Frameworks & Libraries: Tailwind CSS, Bootstrap, jQuery<br>
-
-<br>Back-End Runtimes: Node.js<br>
-<br>Additional Languages: PHP, Java<br>
-<br>Databases: MongoDB, PostgreSQL<br>
-<br>API Architectures: RESTful API development, GraphQL<br>
+--Front-End Frameworks: Vue.js, Angular--
+--CSS Frameworks & Libraries: Tailwind CSS, Bootstrap, jQuery--
+--Back-End Runtimes: Node.js--
+--Additional Languages: PHP, Java--
+--Databases: MongoDB, PostgreSQL--
+--API Architectures: RESTful API development, GraphQL--<br>
 
 ###
 
