@@ -31,13 +31,13 @@
 
 <br><h3>✅ Solid Foundation:<br></h3>
 <br>--Front-End: HTML5, CSS3--
---Back-End: Python<br>--
+--Back-End: Python--
 --Databases: MySQL--
 --Version Control: Git & GitHub--<br>
 
-<br>Currently Mastering:<br>
-<br>Core Language: JavaScript (ES6+)<br>
-<br>Front-End Library: React (State, Hooks, Components)<br>
+<br><h3>--Currently Mastering:--</h3><br>
+<br>--Core Language: JavaScript-- (ES6+)
+--Front-End Library: React (State, Hooks, Components)--<br>
 
 <br>🎯 On The Roadmap (Coming Next):<br>
 <br>My learning plan is strategically designed to expand my capabilities into high-demand technologies:<br>
