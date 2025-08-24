@@ -36,8 +36,7 @@
 --Version Control: Git & GitHub--<br>
 
 <br><h3>✅Currently Mastering:</h3><br>
-<br><h3>Currently Mastering:</h3><br>
-<br>--Core Language: JavaScript-- (ES6+)
+--Core Language: JavaScript-- (ES6+)
 --Front-End Library: React (State, Hooks, Components)--<br>
 
 <br><h3>✅ On The Roadmap (Coming Next):</h3><br>
@@ -50,8 +49,6 @@
 --API Architectures: RESTful API development, GraphQL--<br>
 
 ###
-
-
 ###
 
 <h3 align="left">   My Stats :</h3>
