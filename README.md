@@ -6,15 +6,6 @@
 
 ---
 
-## 🧩 About Me  
-- 🌟 Motivated and detail-oriented developer  
-- 📖 Always learning and improving one step at a time  
-- 🤝 Open to collaboration and contributing to open-source projects  
-- 🧑‍💻 Focused on writing clean, efficient, and scalable code  
-
----
----
-
 ## 🐍 GitHub Contribution Snake  
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
 
@@ -42,6 +33,6 @@
   <a href="#"><img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white" /></a>
 </p>
 
-
+---
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)  
