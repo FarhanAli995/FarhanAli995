@@ -1,62 +1,43 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 👋 Hey, I'm Farhan Ali  
 
-###
+💻 **Aspiring Full-Stack Developer**  
+🚀 Passionate about designing, developing, and deploying full-scale applications.  
+🎯 On a structured journey to master **modern web technologies** and become a versatile engineer.  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+## 🧩 About Me  
+- 🌟 Motivated and detail-oriented developer  
+- 📖 Always learning and improving one step at a time  
+- 🤝 Open to collaboration and contributing to open-source projects  
+- 🧑‍💻 Focused on writing clean, efficient, and scalable code  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+---
 
-###
+## ✅ Skills (Solid Foundation)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-<h1 align="center">Hey There 👋</h1>
+---
 
-###
+## 📚 Currently Learning  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 🎯 Roadmap (Coming Soon)  
+- 🖼️ **Front-End Frameworks:** Vue.js, Angular  
+- 🎨 **CSS Frameworks & Libraries:** Tailwind CSS, Bootstrap, jQuery  
+- 🖥️ **Back-End Runtimes:** Node.js  
+- ⚡ **Languages:** PHP, Java  
+- 🗂️ **Databases:** MongoDB, PostgreSQL  
+- 🔗 **APIs:** REST, GraphQL  
 
- <h2 align="left">👋 Hello, I'm Farhan Ali | Aspiring Full-Stack Developer <br></h2>
-<p>I am a motivated and detail-oriented developer on a structured journey to become a proficient full-stack engineer. My learning path is focused on building a strong, versatile skill set across the entire development stack.<br>
+---
 
-<br><h3>✅ Solid Foundation:<br></h3>
-<br>--Front-End: HTML5, CSS3--
---Back-End: Python--
---Databases: MySQL--
---Version Control: Git & GitHub--<br>
+## 🐍 GitHub Contribution Snake  
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
 
-<br><h3>✅Currently Mastering:</h3><br>
---Core Language: JavaScript-- (ES6+)
---Front-End Library: React (State, Hooks, Components)--<br>
+---
 
-<br><h3>✅ On The Roadmap (Coming Next):</h3><br>
-<br>My learning plan is strategically designed to expand my capabilities into high-demand technologies:<br>
---Front-End Frameworks: Vue.js, Angular--
---CSS Frameworks & Libraries: Tailwind CSS, Bootstrap, jQuery--
---Back-End Runtimes: Node.js--
---Additional Languages: PHP, Java--
---Databases: MongoDB, PostgreSQL--
---API Architectures: RESTful API development, GraphQL--<br>
-
-###
-###
-
-<h3 align="left">   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)  
