@@ -1,3 +1,9 @@
+<!-- Animated Space Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=FARHAN%20ALI&fontSize=60&fontColor=fff&animation=fadeIn&stroke=00d2ff&strokeWidth=2" />
+</div>
+
+
 <div align="center">
 🔧 Core Tools
 <p>
@@ -48,4 +54,14 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=FarhanAli&theme=chartreuse-dark&hide_border=false&border=00FF00&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak" />
 </div>
+
+
+
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║           🌌 COSMIC DEVELOPER PORTFOLIO 🌌                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+
+
+
 
