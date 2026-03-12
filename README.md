@@ -13,41 +13,51 @@
 <br/>
 
 
-### 👨‍💻 About Me
+---
 
-Hi, I'm **Farhan Ali**, a passionate **BSc student and aspiring Full-Stack Web Developer** with a strong interest in building modern web applications. I enjoy turning ideas into real digital solutions using clean code and creative design.
+## 🎯 About Me
 
-My main focus is **web development**, especially working with **Python and Django** for backend development, along with modern frontend technologies to create responsive and user-friendly interfaces. I love learning new technologies and continuously improving my programming skills.
+> *"Turning ideas into real digital solutions through clean code and creative design"*
 
-Currently, I am working on several projects to strengthen my development skills, including building dynamic websites, REST APIs, and interactive applications. I am also exploring technologies like **React, SQL, and Django REST Framework** to become a complete full-stack developer.
+I'm a passionate **BSc student** and aspiring **Full-Stack Web Developer** with a love for building modern, impactful web applications. I thrive on transforming complex problems into elegant, user-friendly solutions.
 
-Apart from coding, I enjoy **teaching and sharing knowledge**, creating educational content, and exploring new ideas in technology and programming.
+### 🔥 What Drives Me
+- 💻 Crafting responsive & intuitive user interfaces
+- ⚙️ Architecting robust backend systems
+- 🌱 Continuously learning & exploring cutting-edge technologies
+- 📚 Sharing knowledge through teaching & educational content
 
-🚀 **Goal:** To become a skilled software developer and build impactful web applications that solve real-world problems.
-
-<br/>
-<br/>
-
-<div align="center">
-  🔧 <b>Core Tools</b>
-  <p>
+ <!-- Core Tools -->
+<div align ="center">
+  <h3>🔧 <b>Core Tools</b></h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" />
-  </p>
+  </div>
 
-  🎨 <b>Frontend</b>
-  <p>
+  <h3>🎨 <b>Frontend</b></h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,jquery&theme=dark&perline=4" />
-  </p>
+  </div>
 
-  ⚙️ <b>Backend & Data</b>
-  <p>
+  <h3>⚙️ <b>Backend & Data</b></h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
     <img src="https://skillicons.dev/icons?i=django,mysql,sqlite,postgres&theme=dark&perline=4" />
-  </p>
+  </div>
 </div>
-
 <br/>
 
+---
 
+
+## 🚀 Current Focus
+
+* 🔭 **Working On:** Dynamic websites & REST APIs
+* 🌱 **Learning:** React, Django REST Framework, Advanced SQL
+* 👯 **Looking to Collaborate On:** Open-source web projects
+* 💬 **Ask Me About:** Python, Django, Web Development
+* ⚡ **Fun Fact:** I debug code faster with coffee ☕
+
+---
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanAli995&theme=tokyonight&hide_border=true" />
