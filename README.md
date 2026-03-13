@@ -26,28 +26,36 @@ I'm a passionate **BSc student** and aspiring **Full-Stack Web Developer** with 
 - ⚙️ Architecting robust backend systems
 - 🌱 Continuously learning & exploring cutting-edge technologies
 - 📚 Sharing knowledge through teaching & educational content
-
 <div align="center">
-  <h3>🔧 <b>Core Tools</b></h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" />
-  </div>
 
-  <h3>🎨 <b>Frontend</b></h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,jquery&theme=dark&perline=4" />
-    <!-- DTL (Django Template Language) - using django icon as proxy -->
-    <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="DTL" title="Django Template Language" />
-  </div>
+<h3>🔧 <b>Core Tools</b></h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux,bash&theme=dark&perline=9" />
 
-  <h3>⚙️ <b>Backend & Data</b></h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=django,mysql,sqlite,postgres&theme=dark&perline=4" />
-    <!-- SQL - using generic database icon -->
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL" title="SQL" />
-  </div>
+<br><br>
+
+<h3>🎨 <b>Frontend</b></h3>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,jquery,figma&theme=dark&perline=5" />
+
+<br><br>
+
+<h3>⚙️ <b>Backend & Database</b></h3>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,mysql,sqlite,postgres&theme=dark&perline=6" />
+
+<br><br>
+
+<h3>🧰 <b>Developer Tools</b></h3>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,vercel,netlify,postman&theme=dark&perline=8" />
+
+<br><br>
+
+<h3>🤖 <b>AI Assistants</b></h3>
+<!-- Using available square icons and custom square containers for AI tools -->
+<img src="https://img.icons8.com/color/48/000000/chatgpt.png" width="48" height="48" style="border-radius: 8px; margin: 0 5px;" />
+<img src="https://img.icons8.com/color/48/000000/deepseek.png" width="48" height="48" style="border-radius: 8px; margin: 0 5px;" />
+<img src="https://cdn.simpleicons.org/google/ffffff" height="50"/>
+<img src="https://cdn.simpleicons.org/perplexity/ffffff" height="50"/>
+
 </div>
-<br/>
 
 ---
 
