@@ -27,21 +27,24 @@ I'm a passionate **BSc student** and aspiring **Full-Stack Web Developer** with 
 - 🌱 Continuously learning & exploring cutting-edge technologies
 - 📚 Sharing knowledge through teaching & educational content
 
- <!-- Core Tools -->
-<div align ="center">
+<div align="center">
   <h3>🔧 <b>Core Tools</b></h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" />
   </div>
 
   <h3>🎨 <b>Frontend</b></h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,jquery&theme=dark&perline=4" />
+    <!-- DTL (Django Template Language) - using django icon as proxy -->
+    <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="DTL" title="Django Template Language" />
   </div>
 
   <h3>⚙️ <b>Backend & Data</b></h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=django,mysql,sqlite,postgres&theme=dark&perline=4" />
+    <!-- SQL - using generic database icon -->
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL" title="SQL" />
   </div>
 </div>
 <br/>
