@@ -43,16 +43,10 @@ I'm a passionate **BSc student** and aspiring **Full-Stack Web Developer** with 
 
 <br><br>
 
-<h3>🧰 <b>Developer Tools</b></h3>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,vercel,netlify,postman&theme=dark&perline=8" />
-
-<br><br>
-
 <h3>🤖 <b>AI Assistants</b></h3>
 <!-- Using available square icons and custom square containers for AI tools -->
 <img src="https://img.icons8.com/color/48/000000/chatgpt.png" width="48" height="48" style="border-radius: 8px; margin: 0 5px;" />
 <img src="https://img.icons8.com/color/48/000000/deepseek.png" width="48" height="48" style="border-radius: 8px; margin: 0 5px;" />
-<img src="https://cdn.simpleicons.org/google/ffffff" height="50"/>
 <img src="https://cdn.simpleicons.org/perplexity/ffffff" height="50"/>
 
 </div>
