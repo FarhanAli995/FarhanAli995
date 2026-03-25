@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-> *"Turning ideas into real digital solutions through clean code and creative design"*
+> *"Turning ideas into real digital solutions through clean code and creative design"*.
 
 I'm a passionate **BSc student** and aspiring **Full-Stack Web Developer** with a love for building modern, impactful web applications. I thrive on transforming complex problems into elegant, user-friendly solutions.
 
