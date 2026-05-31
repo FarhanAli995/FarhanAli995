@@ -68,8 +68,4 @@ I'm a passionate **BSc student** and aspiring **Full-Stack Web Developer** with 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanAli995&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- GitHub Stats -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FarhanAli995&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAli995&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
