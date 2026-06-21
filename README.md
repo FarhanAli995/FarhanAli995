@@ -252,7 +252,7 @@ I'm a passionate **BSc student** and aspiring **Full-Stack Web Developer** with 
 
 ---
 
-##🚀 Current Focus
+### 🚀 My Current Focus
 
 |                      |                                            |
 | :------------------- | :----------------------------------------- |
