@@ -28,227 +28,216 @@ I'm a passionate **BSc student** and aspiring **Full-Stack Web Developer** with 
 - 📚 Sharing knowledge through teaching & educational content
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FRONTEND DEVELOPMENT                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                    SKILLS ICONS GRID                                   -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<h3 align="center">🎨 Frontend Development</h3>
 
 <div align="center">
 
-🎯 Core Technologies
-
 <table>
-
 <tr>
-
 <td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-
-<sub><b>Python</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=django" width="50"/><br>
-
-<sub><b>Django</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
-
-<sub><b>JavaScript</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=ts" width="50"/><br>
-
-<sub><b>TypeScript</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
-
-<sub><b>React</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
 <img src="https://skillicons.dev/icons?i=html" width="50"/><br>
-
 <sub><b>HTML5</b></sub>
-
 </td>
 
 <td align="center" width="90">
-
 <img src="https://skillicons.dev/icons?i=css" width="50"/><br>
-
 <sub><b>CSS3</b></sub>
-
 </td>
 
 <td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+<sub><b>JavaScript</b></sub>
+</td>
 
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=ts" width="50"/><br>
+<sub><b>TypeScript</b></sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+<sub><b>React</b></sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>
+<sub><b>Next.js</b></sub>
+</td>
+
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>
-
 <sub><b>Tailwind</b></sub>
-
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
-
-<sub><b>MySQL</b></sub>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
+<sub><b>Bootstrap</b></sub>
 </td>
 
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>
-
-<sub><b>PostgreSQL</b></sub>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sass" width="50"/><br>
+<sub><b>Sass</b></sub>
 </td>
 
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br>
-
-<sub><b>SQLite</b></sub>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=materialui" width="50"/><br>
+<sub><b>Material UI</b></sub>
 </td>
 
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
-
-<sub><b>Git</b></sub>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vite" width="50"/><br>
+<sub><b>Vite</b></sub>
 </td>
 
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
-
-<sub><b>GitHub</b></sub>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=webpack" width="50"/><br>
+<sub><b>Webpack</b></sub>
 </td>
 
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>
-
-<sub><b>Docker</b></sub>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jquery" width="50"/><br>
+<sub><b>jQuery</b></sub>
 </td>
 
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=nginx" width="50"/><br>
-
-<sub><b>Nginx</b></sub>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redux" width="50"/><br>
+<sub><b>Redux</b></sub>
 </td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
-
-<sub><b>Linux</b></sub>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=aws" width="50"/><br>
-
-<sub><b>AWS</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
-
-<sub><b>VS Code</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=postman" width="50"/><br>
-
-<sub><b>Postman</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
-
-<sub><b>C++</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br>
-
-<sub><b>Java</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>
-
-<sub><b>TensorFlow</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>
-
-<sub><b>PyTorch</b></sub>
-
-</td>
-
-<td align="center" width="90">
-
-<img src="https://skillicons.dev/icons?i=figma" width="50"/><br>
-
-<sub><b>Figma</b></sub>
-
-</td>
-
 </tr>
 
 </table>
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    BACKEND DEVELOPMENT                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<h3 align="center">⚙️ Backend Development</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django" width="50"/><br><sub><b>Django</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="50"/><br><sub><b>Flask</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br><sub><b>FastAPI</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br><sub><b>Node.js</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br><sub><b>Express</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="50"/><br><sub><b>GraphQL</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         DATABASES                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">🗄️ Databases</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><sub><b>MySQL</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><sub><b>PostgreSQL</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br><sub><b>SQLite</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><sub><b>MongoDB</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis" width="50"/><br><sub><b>Redis</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br><sub><b>Firebase</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="50"/><br><sub><b>Supabase</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     DEVOPS & CLOUD                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">☁️ DevOps & Cloud</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="50"/><br><sub><b>Nginx</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br><sub><b>Linux</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50"/><br><sub><b>AWS</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="50"/><br><sub><b>GitHub Actions</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="50"/><br><sub><b>Cloudflare</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50"/><br><sub><b>Vercel</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         AI / ML                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">🤖 AI / Machine Learning</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br><sub><b>TensorFlow</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br><sub><b>PyTorch</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br><sub><b>Scikit-Learn</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="50"/><br><sub><b>OpenCV</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="50"/><br><sub><b>Anaconda</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          UI / UX                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">🎨 UI / UX Design</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br><sub><b>Figma</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TOOLS & WORKFLOW                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">🔧 Tools & Workflow</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="50"/><br><sub><b>GitLab</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>VS Code</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br><sub><b>Postman</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=npm" width="50"/><br><sub><b>NPM</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=yarn" width="50"/><br><sub><b>Yarn</b></sub></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
